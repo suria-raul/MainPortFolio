@@ -354,6 +354,14 @@ Glitch Effect
 .glitch-transition .cd-btn {
   background: #74abdc;
   color: #ffffff;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  transition: 0.5s;
+}
+.glitch-transition .cd-btn:hover {
+  background-color: blue;
 }
 .glitch-transition .cd-main-content {
    background-image: url('../img/me.jpg');
