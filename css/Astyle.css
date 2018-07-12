@@ -1,0 +1,13 @@
+img[src="img/untitled.png"] {
+	margin-left: 45%;
+	border-radius: 50%;
+}
+
+h3 {
+	text-align: center;
+}
+
+ul li {
+	margin: 0px auto;
+	max-width: 800px;
+}

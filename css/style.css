@@ -89,7 +89,8 @@ h1 {
 .cd-modal h1, .cd-modal h2 {
   text-align: center;
 }
-.cd-modal p {
+.cd-modal p,
+h3 {
   line-height: 1.6;
   margin: 2em auto;
   max-width: 800px;
