@@ -1,5 +1,6 @@
-img[src="./img/Untitled.png"] {
-	margin-left: 45%;
+img {
+	height: 200px;
+	width: 200px;
 	border-radius: 50%;
 }
 
@@ -11,3 +12,38 @@ ul li {
 	margin: 0px auto;
 	max-width: 800px;
 }
+
+#myName {
+	color: white;
+	margin-bottom: 2px;
+}
+
+#myDesc {
+	margin-bottom: 20px;
+	/*color: black;*/
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+#circle-border {
+	background-color: #74abdc;
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+#circle-border:hover {
+	background-color: blue;
+}
+
+#socials {
+	margin-top: 50px;
+}
+
+
