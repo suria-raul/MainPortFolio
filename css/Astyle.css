@@ -46,4 +46,13 @@ ul li {
 	margin-top: 50px;
 }
 
+#resume {
+	font-weight: bolder;
+	margin-bottom: 20px;
+}
 
+#resume a {
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px solid white;
+}
